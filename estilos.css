@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #3793b5;
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+}
+
+main {
+    max-width: 1000px;
+    width: 80%;
+    margin: auto;
+    padding: 40px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.personanatojur {
+    margin-left: 20px;
+}
+
+.opcionuso {
+    margin-left: 20px;
+}
+
+.opcionIdentificacion {
+    margin-left: 20px;
+}
+
+.signatureCanvas {
+    border: 1px solid rgb(0, 0, 0);
+    width: 100%;
+    min-height: 500px;
+}
